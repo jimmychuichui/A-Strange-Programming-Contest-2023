@@ -15,7 +15,6 @@ int return_minutes(string time1, string time2, string morning_afternoon1, string
 
 
     int time1_hours = time1_hours_0 * 10 + time1_hours_1;
-    //cout << time1_hours << endl;
 
 
     int time2_hours_0 = time2[0] - '0';
@@ -23,7 +22,6 @@ int return_minutes(string time1, string time2, string morning_afternoon1, string
 
     int time2_hours = time2_hours_0 * 10 + time2_hours_1;
 
-    //cout << time2_hours << endl;
 
     //if cross am to pm or pm to am
     if (morning_afternoon1 != morning_afternoon2)

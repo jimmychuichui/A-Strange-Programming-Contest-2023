@@ -1,0 +1,32 @@
+
+
+
+
+
+L -> I
+W -> V
+G -> E
+
+A -> T
+S -> H
+G -> E
+Q -> Y
+
+
+J -> R
+G -> E
+
+W -> V
+G -> E
+
+E -> Z
+
+L'WG
+ASGQ'JG
+ASGQ'WG
+FSYA'D
+ASYA'D
+TGA'D
+FG'TT
+
+
